@@ -1,7 +1,6 @@
 //
 //  SecondViewController.swift
 //  MusicPlay
-//  Created by Matthew Holder on 20.12.2018.
 //
 
 import UIKit
