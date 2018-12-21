@@ -1,10 +1,7 @@
 //
 //  AppDelegate.swift
 //  MusicPlay
-//
-//  Created by Matthew Holder on 20.12.2018
-//  Copyright © 2017 MAGNUMIUM. All rights reserved.
-//
+
 
 import UIKit
 
