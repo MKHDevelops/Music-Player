@@ -2,8 +2,7 @@
 //  FirstViewController.swift
 //  MusicPlay
 //
-//  Created by Sebastian Hette on 26.01.2017.
-//  Copyright © 2017 MAGNUMIUM. All rights reserved.
+//  Created by Matthew Holder on 18.12.2018
 //
 
 import UIKit
