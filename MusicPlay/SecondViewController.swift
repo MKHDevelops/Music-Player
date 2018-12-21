@@ -1,6 +1,5 @@
 //
 //  SecondViewController.swift
-//  MusicPlay
 //
 
 import UIKit
