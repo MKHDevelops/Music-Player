@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MusicPlay
 //
-//  Created by Sebastian Hette on 26.01.2017.
+//  Created by Matthew Holder on 20.12.2018
 //  Copyright © 2017 MAGNUMIUM. All rights reserved.
 //
 
