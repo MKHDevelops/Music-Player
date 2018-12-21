@@ -58,7 +58,7 @@ class FirstViewController: UIViewController, UITableViewDelegate, UITableViewDat
     }
     
     
-    //FUNCTION THAT GETS THE NAME OF THE SONGS
+    //Get names of songs 
     func gettingSongNames()
     {
         let folderURL = URL(fileURLWithPath:Bundle.main.resourcePath!)
