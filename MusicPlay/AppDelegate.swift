@@ -1,6 +1,5 @@
-//
 //  AppDelegate.swift
-//  MusicPlay
+
 
 
 import UIKit
