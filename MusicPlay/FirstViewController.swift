@@ -1,8 +1,6 @@
 //
 //  FirstViewController.swift
 //  MusicPlay
-//  Created by Matthew Holder on 18.12.2018
-//
 
 import UIKit
 import AVFoundation
